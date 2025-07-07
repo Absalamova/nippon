@@ -13,13 +13,13 @@ function Footer() {
                         <Image fill src="/footer-logo.png" alt="logo" />
                     </Link>
                 </div>
-                <nav className='flex gap-[30px] '>
+                <nav className='flex gap-[15px]'>
                     <Link className='hover:text-red-500' href="#we">Why Us</Link>
                     <Link className='hover:text-red-500' href="#result">Results</Link>
                     <Link className='hover:text-red-500' href="#course">Courses</Link>
                     <Link className='hover:text-red-500' href="#faq">FAQ</Link>
                 </nav>
-                <div className='flex gap-[25px]'>
+                <div className='flex gap-[10px]'>
                   <Link className='hover:text-red-500' href="tel:+998 (95) 325 5000"><FaPhoneAlt /></Link>
                   <Link className='hover:text-red-500' href="https://t.me/nipponstudycenter"><FaTelegramPlane /></Link>
                   <Link className='hover:text-red-500' href="https://www.instagram.com/nippon.uz/"><FaInstagram /></Link>

@@ -8,6 +8,7 @@ import News from '@/Components/news'
 import Results from '@/Components/results'
 import Faq from '@/Components/faq'
 import License from '@/Components/license'
+import Support from '@/Components/support'
 
 function Home() {
   return (
@@ -22,6 +23,7 @@ function Home() {
         <JLPT/>
         <License/>
         <Faq/>
+        <Support/>
         <Footer />
       </div>
 
