@@ -28,7 +28,7 @@ export default function Results() {
   return (
     <section className="pb-16 " id="results">
       <div className="container mx-auto px-4">
-        <h4 className="text-2xl font-semibold text-center mb-6">Check out our students' results</h4>
+        <h4 className="text-3xl font-semibold text-center mb-6">Check out our students' results</h4>
 
         <Marquee speed={40} pauseOnHover={true} direction="right">
           {certificateImages.map((src, idx) => (
@@ -38,7 +38,7 @@ export default function Results() {
           ))}
         </Marquee>
 
-        <h4 className="text-2xl font-semibold text-center my-6">Our students' results: those who got a visa</h4>
+        <h4 className="text-3xl font-semibold text-center my-6">Our students' results: those who got a visa</h4>
 
         <Marquee speed={35} pauseOnHover={true} direction="left">
           {visaImages.map((src, idx) => (
