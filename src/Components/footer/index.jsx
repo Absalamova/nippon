@@ -13,7 +13,7 @@ function Footer() {
                         <Image fill src="/footer-logo.png" alt="logo" />
                     </Link>
                 </div>
-                <nav className='flex gap-[15px]'>
+                <nav className='flex flex-col sm:flex-row items-center gap-0 sm:gap-[15px] '>
                     <Link className='hover:text-red-500' href="#we">Why Us</Link>
                     <Link className='hover:text-red-500' href="#result">Results</Link>
                     <Link className='hover:text-red-500' href="#course">Courses</Link>

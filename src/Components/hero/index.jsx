@@ -20,7 +20,7 @@ function Hero() {
                 <div className='w-[220px] h-[40px] mt-10 '>
                     <a
                     href="#contact"
-                    className="px-3 py-2 text-white 
+                    className=" w-full px-3 py-2 text-white 
                     bg-gradient-to-r from-red-400 to-red-600 
                      hover:from-red-500 hover:to-red-800 
                     rounded-full text-lg shadow-md transition"
