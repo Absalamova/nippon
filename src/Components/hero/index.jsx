@@ -17,7 +17,7 @@ function Hero() {
                         Achieve a high level of Japanese and gain the opportunity to study and work in Japan
                     </p>
                 </div>
-                <div className='w-[220px] h-[40px] mt-10 '>
+                <div className=' mt-10 '>
                     <a
                     href="#contact"
                     className=" w-full px-3 py-2 text-white 

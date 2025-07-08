@@ -30,12 +30,12 @@ export default function News() {
         >
           {images.map((src, index) => (
             <SwiperSlide key={index}>
-              <div className="relative w-full h-[400px] rounded-lg overflow-hidden shadow-md bg-white/30 backdrop-blur">
+              <div className="relative w-full max-h-[400px] rounded-lg overflow-hidden shadow-md bg-white/30 backdrop-blur">
                 <Image
                   src={src}
                   alt={`News ${index + 1}`}
                   fill
-                  className="object-cover"
+                 
                 />
               </div>
             </SwiperSlide>
