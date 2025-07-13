@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 function JLPT() {
   return (
-    <section className="py-16" id="gks">
+    <section className="py-16" id="we">
       <div className="max-w-[1200px] mx-auto px-4">
         <div className="text-3xl  font-semibold text-center mb-8">
           The opportunity to win a grant of up to 100% for Japanese language schools.

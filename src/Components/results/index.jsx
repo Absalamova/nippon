@@ -26,7 +26,7 @@ const visaImages = [
 
 export default function Results() {
   return (
-    <section className="pb-16 " id="results">
+    <section className="pb-16 " id="result">
       <div className="container mx-auto px-4">
         <h4 className="text-3xl font-semibold text-center mb-6">Check out our students' results</h4>
 

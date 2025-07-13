@@ -16,7 +16,7 @@ const images = [
 
 export default function News() {
   return (
-    <section className="min-h-screen relative z-10 py-10 px-4">
+    <section className="min-h-screen relative z-10 py-10 px-4" id="news">
       <h1 className="text-3xl font-bold text-center mb-8">News</h1>
 
       <div className="max-w-5xl mx-auto">

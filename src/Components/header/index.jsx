@@ -23,8 +23,8 @@ export default function Header() {
         <nav className="hidden lg:flex gap-6 items-center">
           <Link href="#we" className="hover:text-red-500">Why Us</Link>
           <Link href="#result" className="hover:text-red-500">Results</Link>
-          <Link href="#course" className="hover:text-red-500">Courses</Link>
-          <Link href="#faq" className="hover:text-red-500">FAQ</Link>
+          <Link href="#news" className="hover:text-red-500">News</Link>
+          <Link href="#faq" className="hover:text-red-500">Frequently Asked Questions</Link>
         </nav>
 
     
